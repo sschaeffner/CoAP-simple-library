@@ -79,6 +79,7 @@ typedef enum {
     COAP_URI_HOST = 3,
     COAP_E_TAG = 4,
     COAP_IF_NONE_MATCH = 5,
+    COAP_OBSERVE = 6,
     COAP_URI_PORT = 7,
     COAP_LOCATION_PATH = 8,
     COAP_URI_PATH = 11,
